@@ -1,0 +1,245 @@
+## Lesson 3: Core Chunks
+We've got an issue with... | У нас проблема с...
+The issue occurs when... | Проблема возникает, когда...
+I was able to reproduce it. | Мне удалось это воспроизвести.
+The expected behavior is... | Ожидаемое поведение такое:
+What actually happens is... | А на самом деле происходит вот что:
+Instead, the system... | Вместо этого система...
+It seems to be related to... | Похоже, это связано с...
+It happens intermittently. | Это случается то да, то нет.
+This could affect... | Это может затронуть...
+Just to make sure we're on the same page... | Просто чтобы убедиться, что мы понимаем это одинаково...
+
+## The Meeting Survival Kit
+Sorry, I didn't catch that. | Когда не понял: извини, я не расслышал
+Could you clarify what you mean? | Когда не понял: можешь уточнить, что ты имеешь в виду?
+Could you give me a bit more context? | Когда не понял: можешь дать чуть больше контекста?
+Just to make sure I understand... | Когда не понял: просто чтобы убедиться, что я понял
+Sorry, can I jump in here? | Когда хочешь вклиниться: извини, можно я вклинюсь?
+Can I quickly add something? | Когда хочешь вклиниться: можно я быстро добавлю?
+Just a quick point... | Когда хочешь вклиниться: одна быстрая мысль
+So, just to confirm... | Когда хочешь подтвердить: итак, просто чтобы подтвердить
+If I understand correctly... | Когда хочешь подтвердить: если я правильно понял
+Are you saying that...? | Когда хочешь подтвердить: ты имеешь в виду, что…?
+I'm not sure I agree with that. | Когда не согласен: не уверен, что согласен с этим
+I see your point, but I'm concerned that... | Когда не согласен: понимаю твою мысль, но меня беспокоит, что…
+I'd look at it slightly differently. | Когда не согласен: я бы посмотрел на это немного иначе
+From a QA perspective, my concern is... | Когда не согласен: с точки зрения QA меня беспокоит…
+
+## Recall Challenge
+What are you working on? | Над чем сейчас работаешь?
+What's blocking you? | Что тебя блокирует?
+What are you looking into? | Что сейчас разбираешь?
+Who do you need to sync with? | С кем нужно синхронизироваться?
+What's the main risk? | В чём главный риск?
+move forward | Двигаться дальше / продолжать
+
+## QA Bug Framework
+There's an issue with... | WHAT: есть проблема с…
+It happens when... | HOW: это происходит, когда…
+The expected behavior is... | SHOULD: ожидаемое поведение такое:
+Instead, ... | ACTUAL: вместо этого…
+The impact is... | IMPACT: влияние в том, что…
+expected behavior | Ожидаемое поведение
+actual behavior | Фактическое поведение
+
+## Bug Language Bank
+There's a problem with... | Есть проблема с… (problem)
+I was able to reproduce the issue. | Я смог воспроизвести проблему
+I've reproduced it several times. | Я воспроизвёл это несколько раз
+I couldn't reproduce it locally. | Не смог воспроизвести локально
+It appears to happen when... | Похоже, это случается, когда…
+I'm not sure yet, but it could be related to... | Пока не уверен, но это может быть связано с…
+The main impact is... | Главное влияние в том, что…
+This might prevent users from... | Это может помешать пользователям…
+
+## Build a Bug Report
+There's an issue with the machine status. | WHAT: проблема со статусом машины
+It happens when the device goes offline and reconnects. | HOW: когда устройство уходит офлайн и переподключается
+The expected behavior is that the status changes back to online. | SHOULD: статус должен снова стать online
+Instead, the status remains offline. | ACTUAL: статус остаётся offline
+The impact is that users may see incorrect information. | IMPACT: пользователи могут видеть неверную информацию
+
+## Survive the Stand-Up · Recall
+What are you working on today? | Над чем работаешь сегодня?
+What did you work on yesterday? | Над чем работал вчера?
+Are you blocked by anything? | Тебя что-то блокирует?
+What is your biggest priority? | Какой у тебя главный приоритет?
+What do you need from the team? | Что тебе нужно от команды?
+What's the current status? | Какой сейчас статус?
+
+## Survive the Stand-Up · Chunks
+look into | Разобраться в
+sync with someone | Коротко синкнуться с кем-то
+figure out | Понять, почему так
+figure out what's going on | Понять, что вообще происходит
+I'm not blocked | Меня ничего не блокирует
+I'm blocked by... | Меня блокирует…
+affect the release | Повлиять на релиз
+I've wrapped up... | Я закрыл / добил...
+I didn't catch that | Я не расслышал / не понял
+go over something | Пройтись вместе / разобрать
+from my side | С моей стороны / по моей части
+as long as | Если / при условии что
+move on to | Перейти к
+release-blocking | Блокирует релиз
+come up with | Придумать / предложить
+come across | Наткнуться на
+come up | Всплыть (о теме / проблеме)
+look up | Глянуть / поискать значение
+look for | Искать
+look after | Присмотреть за
+look forward to | Ждать с интересом
+find out | Выяснить
+point out | Указать на
+sort out | Разрулить / привести в порядок
+work out | Сложиться / получиться
+carry out | Провести / выполнить
+deal with | Разобраться с
+run into | Напороться на
+run out of | Закончиться у нас
+bring up | Поднять тему
+bring back | Вернуть обратно
+set up | Поднять / настроить
+sign up for | Записаться на
+sign off on | Согласовать / утвердить
+follow up on | Проследить / добить
+catch up on | Наверстать
+catch up with | Синкнуться / догнать
+go through | Просмотреть / пройти самому
+go over | Пройтись вместе
+go ahead with | Пойти дальше с
+get back to | Вернуться с ответом
+get rid of | Избавиться от
+get stuck on | Застрять на
+hang on to | Не выкидывать / оставить у себя
+hold on to | Пока оставить / не трогать
+keep up with | Успевать за
+put off | Сдвинуть / отложить
+put up with | Мириться с
+take on | Взять на себя
+take over | Перенять у кого-то
+turn out | Оказаться
+break down | Разбить на части
+break into | Разбиться на
+cut down on | Урезать / сократить
+check in on | Глянуть, как там дела
+check out | Глянуть / чекаутнуть
+call off | Отменить
+call out | Подсветить / явно указать на
+hand over | Передать
+hand in | Сдать
+move forward with | Идти дальше с
+push back on | Возразить / не согласиться
+push for | Давить на / настаивать на
+reach out to | Написать / дернуть
+stick to | Придерживаться
+stick with | Остаться с
+wrap up | Закрыть / завершить
+zero in on | Сфокусироваться на
+narrow down | Сузить
+drill down into | Копнуть глубже в
+
+## Survive the Stand-Up · Engine
+Yesterday, I worked on... | Вчера я работал над…
+I finished... | Я закончил…
+I started... | Я начал…
+Today, I'm going to... | Сегодня я собираюсь…
+I'll continue... | Я продолжу…
+I'm planning to... | Я планирую…
+At the moment, I'm blocked by... | Сейчас меня блокирует…
+I'm not blocked at the moment. | Сейчас меня ничего не блокирует
+The main issue is... | Главная проблема в том, что…
+I need some clarification on... | Мне нужно уточнение по…
+
+## Survive the Stand-Up · QA Lead
+From a QA perspective... | С точки зрения QA…
+The main risk is... | Главный риск в том, что…
+We still need to verify... | Нам ещё нужно проверить…
+We don't have enough coverage yet. | Пока недостаточно покрытия
+I'd like to clarify... | Хочу уточнить…
+
+## Survive the Stand-Up · Daily Update
+Yesterday I tested a new feature, found two issues, and added one automated test. | Вчера: протестировал фичу, нашёл два бага, добавил один автотест
+Today I want to look into the remaining issue and sync with the developer. | Сегодня: разобрать оставшийся баг и синхронизироваться с разработчиком
+The main risk is that it could affect the release. | Главный риск: может повлиять на релиз
+I need to sync with the developer. | Что нужно: синхронизироваться с разработчиком
+
+## Survive a QA Meeting · Speed Check
+What do you do? | Чем ты занимаешься?
+What do you normally discuss in a stand-up? | Что обычно обсуждаете на стендапе?
+What do you do when a bug comes in? | Что делаешь, когда приходит баг?
+Do you write automated tests? | Ты пишешь автотесты?
+What happens during grooming? | Что происходит на груминге?
+What do you do when acceptance criteria aren't clear? | Что делаешь, если критерии приёмки неясны?
+
+## Survive a QA Meeting · Unlock
+a couple of | Два / небольшое количество
+edge case | Нетипичный сценарий, который всё равно надо проверить
+a couple of edge cases | Пара нетипичных сценариев
+move the ticket forward | Продвинуть тикет
+make sure | Убедиться
+I'd like us to... | Вежливо предложить команде действие
+give us a quick update | Попросить статус
+automated coverage | Автопокрытие
+clarify the acceptance criteria | Уточнить критерии приёмки
+quick update on regression | Короткий апдейт по регрессу
+automated coverage for the main flow | Автопокрытие основного флоу
+we're still missing a couple of edge cases | Нам всё ещё не хватает пары эдж-кейсов
+I'd like us to retest those today | Хочу, чтобы мы сегодня их перепроверили
+make sure everything is covered | Убедиться, что всё покрыто
+
+## Survive a QA Meeting · Language Engine
+We don't have automated coverage for this yet. | Пока нет автопокрытия на это
+This scenario is already covered by an automated test. | Этот сценарий уже покрыт автотестом
+I'd like to clarify the acceptance criteria. | Хочу уточнить критерии приёмки
+The acceptance criteria aren't clear enough to start testing. | Критерии приёмки недостаточно ясны, чтобы начать тестирование
+Can we agree on the expected behavior first? | Давайте сначала договоримся об ожидаемом поведении
+We need to retest this. | Нам нужно это перепроверить
+I think we should retest this before we release it. | Думаю, стоит перепроверить это до релиза
+Could we clarify the acceptance criteria? | Можем уточнить критерии приёмки?
+I'd suggest retesting this before the release. | Предложил бы перепроверить это до релиза
+
+## Survive a QA Meeting · Response Reflex
+Can we release it? | Можем релизить?
+Is it covered? | Это покрыто?
+Can you reproduce it? | Можешь воспроизвести?
+What do we need to retest? | Что нужно перепроверить?
+What should we prioritize? | Что стоит приоритизировать?
+What do you suggest? | Что предлагаешь?
+At the moment, I'm... | Сейчас я…
+As far as I know... | Насколько я знаю…
+We already have... | У нас уже есть…
+We still need to... | Нам ещё нужно…
+I'd suggest... | Я бы предложил…
+My main concern is... | Меня больше всего беспокоит…
+
+## Chunks for AVT
+the business ask is to | бизнес просит
+work as is | работать как сейчас
+the end outcome should be | итоговый результат должен быть
+partial export | частичная выгрузка
+they ended up with a zip | в итоге получили zip
+give it a thought | подумать над этим
+any questions left | стались вопросы?
+revisit the ask | ещё раз пройтись по требованию
+I’ll get that answered | выясню и отвечу
+in the worst case | в худшем случае
+good to go | можно стартовать
+take it from here | продолжить с этого места
+bulk export | массовая выгрузка
+for now | пока что
+as part of | в рамках
+from then on | с этого момента дальше
+end up with | В итоге получить
+clarify the expected behavior | Уточнить, как должно работать
+seem to be related to | Похоже, связано с
+I’ll get that addressed | закрою этот вопрос
+retain the same screen | оставить тот же экран
+that is not part of the AC | этого нет в AC
+bulk files | пачка файлов
+the assumption is | исходим из того, что
+have you had a chance to take a look at | успел посмотреть?
+hand-pick | выбрать руками
+we are not introducing anything fancy | мы ничего нового не выдумываем
+have a word with | переговорить с
