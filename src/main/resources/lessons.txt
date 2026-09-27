@@ -6,7 +6,6 @@ The expected behavior is... | Ожидаемое поведение такое:
 What actually happens is... | А на самом деле происходит вот что:
 Instead, the system... | Вместо этого система...
 It seems to be related to... | Похоже, это связано с...
-It happens intermittently. | Это случается то да, то нет.
 This could affect... | Это может затронуть...
 Just to make sure we're on the same page... | Просто чтобы убедиться, что мы понимаем это одинаково...
 
@@ -243,3 +242,18 @@ have you had a chance to take a look at | успел посмотреть?
 hand-pick | выбрать руками
 we are not introducing anything fancy | мы ничего нового не выдумываем
 have a word with | переговорить с
+irrespective of | независимо от
+the whole thing goes for a toss | всё сыпется
+we didn’t conclude | мы не закрыли решение
+we might have to change our approach | возможно мы, поменяем подход
+it’s not populated | не заполняется
+no restriction on the backend | на бэке нет проверки
+walk through | пройтись по шагам
+log a bug | завести баг
+this involves | тут затрагивается
+it doesn’t involve the UI | UI тут ни при чём
+should never occur | такого быть не должно
+it won’t occur in real time | в бою так не будет
+shall we proceed | идём дальше?
+please assign this issue to the right team | пожалуйста, назначь баг на нужную команду
+it happens intermittently | это случается то да, то нет.
